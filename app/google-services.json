@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1036230834136",
+    "firebase_url": "https://mobilize-app-123.firebaseio.com",
+    "project_id": "mobilize-app-123",
+    "storage_bucket": "mobilize-app-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036230834136:android:a9625b0092320834cda4ad",
+        "android_client_info": {
+          "package_name": "com.app.mobilize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036230834136-us46t9cr61h2bs66sqf7g5jfarqklb16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdpn8Sy6tlIQZEF2QQewX-MPk18c_Zz3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036230834136-us46t9cr61h2bs66sqf7g5jfarqklb16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

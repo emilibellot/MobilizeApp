@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Evento"
+        android:title="Eventos"
+        android:icon="@drawable/ic_events"/>
+    <item
+        android:id="@+id/Plan"
+        android:title="Plan"
+        android:icon="@drawable/ic_calendar"/>
+    <item
+        android:id="@+id/Entrenamiento"
+        android:title="Entrenamiento"
+        android:icon="@drawable/ic_running"/>
+    <item
+        android:id="@+id/Progreso"
+        android:title="Progreso"
+        android:icon="@drawable/ic_progress"/>
+    <item
+        android:id="@+id/Perfil"
+        android:title="Perfil"
+        android:icon="@drawable/ic_user"/>
+</menu>
